@@ -1,0 +1,53 @@
+#login{
+    height: 300px;
+    max-width: 450px;
+    border: 1px solid black;
+    margin-left: 500px;
+    margin-top: 150px;
+    background-color:#1A2130;
+    border-radius: 10px;
+    color: white;
+
+}
+h4{
+    text-align: center;
+}
+#user{
+    margin-left: 75px;
+    color: white;
+}
+#pass{
+    margin-left: 75px;
+    margin-bottom: 30px;
+    color:white;
+}
+input[type="text"],
+input[type="password"]{
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid #121481;
+}
+button{
+    width: 75%;
+    padding: 10px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top:10px;
+    margin-left: 75px;
+}
+button:hover{
+    background-color: cornsilk;
+}
+
+body{
+    background-image: url("admin-login-background-images-8.webp");
+    background-size: auto;
+    
+}
+
+
+
+
